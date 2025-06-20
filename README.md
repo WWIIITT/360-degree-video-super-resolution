@@ -73,7 +73,7 @@ git clone https://github.com/TencentARC/GFPGAN.git
 cd GFPGAN
 python setup.py install
 ```
-## 📖 Usage
+##  Usage
 ### Basic Usage
 ```bash
 # Import required modules
