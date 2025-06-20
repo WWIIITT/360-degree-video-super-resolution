@@ -4,7 +4,7 @@ A powerful AI-driven solution for enhancing 360-degree videos using Real-ESRGAN 
 
 ![Screenshot 2025-06-05 144314](https://github.com/user-attachments/assets/aa08b953-795b-42c5-871e-d79bce56bd13)
 
-## 🌟 Features
+##  Features
 
 - **4x Super-Resolution**: Upscale 360-degree videos to 4 times their original resolution
 - **AI-Powered Face Enhancement**: Intelligent face detection and enhancement using GFPGAN
@@ -13,7 +13,7 @@ A powerful AI-driven solution for enhancing 360-degree videos using Real-ESRGAN 
 - **Audio Preservation**: Maintains original audio quality during enhancement
 - **Google Colab Ready**: Pre-configured Jupyter notebook for easy cloud execution
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option 1: Google Colab (Recommended)
 1. Open the `Real_ESRGAN_Video.ipynb` notebook in Google Colab
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python real_esrgan_video.py
 ```
 
-## 📋 Requirements
+##  Requirements
 Python: 3.7 or higher
 GPU: CUDA-compatible GPU recommended for faster processing
 Dependencies:
@@ -46,7 +46,7 @@ Dependencies:
 - facexlib==0.3.0
 - gfpgan==1.3.8
 
-## 🔧 Installation
+##  Installation
 ### Automatic Setup (Google Colab)
 The Jupyter notebook automatically handles all installations and dependencies.
 
@@ -101,7 +101,7 @@ enhanced_video = enhance_360_video(
 )
 ```
 
-## 🔬 Technical Details
+##  Technical Details
 ### Processing Pipeline
 1. Frame Extraction: Extract individual frames from input video
 2. Super-Resolution: Apply Real-ESRGAN for 4x upscaling
@@ -116,7 +116,7 @@ enhanced_video = enhance_360_video(
 - Output: MP4 with H.264 encoding
 - Audio: AAC encoding at 192kbps
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - Real-ESRGAN by Xintao Wang et al.
 - GFPGAN by Tencent ARC Lab
 - BasicSR for the super-resolution framework
