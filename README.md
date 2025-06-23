@@ -35,8 +35,8 @@ python real_esrgan_video.py
 ```
 
 ##  Requirements
-Python: 3.9 or higher
-GPU: CUDA-compatible GPU recommended for faster processing
+Python: 3.9 or higher, 
+GPU: CUDA-compatible GPU recommended for faster processing, 
 Dependencies:
 
 - torch==1.13.1
