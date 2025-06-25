@@ -1,5 +1,16 @@
 # 360-Degree Video Super-Resolution
 
+<div align="center">
+ 
+
+[![Jujutsu Kaisen](https://img.shields.io/badge/Anime-Jujutsu%20Kaisen-ff6b6b?style=for-the-badge)](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![GitHub stars](https://img.shields.io/github/stars/WWIIITT/360-degree-video-super-resolution.svg)](https://github.com/username/DeepLearning_CheatSheet/stargazers)
+
+
+</div>
+
 A powerful AI-driven solution for enhancing 360-degree videos using Real-ESRGAN and GFPGAN technologies. This project combines advanced super-resolution techniques with intelligent face enhancement to dramatically improve the quality of 360-degree video content.
 
 ![Screenshot 2025-06-05 144314](https://github.com/user-attachments/assets/aa08b953-795b-42c5-871e-d79bce56bd13)
