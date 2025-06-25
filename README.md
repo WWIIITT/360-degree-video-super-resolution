@@ -1,11 +1,14 @@
 # 360-Degree Video Super-Resolution
 
 <div align="center">
- 
 
-[![Jujutsu Kaisen](https://img.shields.io/badge/Anime-Jujutsu%20Kaisen-ff6b6b?style=for-the-badge)](https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-c90076?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Pytorch](https://img.shields.io/badge/Pytorch-1.13.1-5c3ee8?style=for-the-badge&logo=opencv&logoColor=white)](https://pytorch.org/)
+[![Torchvision](https://img.shields.io/badge/Torchvision-0.13.1-38761d?style=for-the-badge&logo=opencv&logoColor=white)](https://pypi.org/project/torchvision/)
+[![basicsr](https://img.shields.io/badge/basicsr-1.4.2-b45f06?style=for-the-badge&logo=opencv&logoColor=white)](https://pypi.org/project/basicsr/1.3.4.0/)
+[![facexlib](https://img.shields.io/badge/facexlib-0.3.0-cc0000?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/xinntao/facexlib)
+[![gfpgan](https://img.shields.io/badge/gfpgan-1.3.8-f1c232?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/TencentARC/GFPGAN)
 [![GitHub stars](https://img.shields.io/github/stars/WWIIITT/360-degree-video-super-resolution.svg)](https://github.com/username/DeepLearning_CheatSheet/stargazers)
 
 
