@@ -9,7 +9,7 @@
 [![basicsr](https://img.shields.io/badge/basicsr-1.4.2-b45f06?style=for-the-badge&logo=opencv&logoColor=white)](https://pypi.org/project/basicsr/1.3.4.0/)
 [![facexlib](https://img.shields.io/badge/facexlib-0.3.0-cc0000?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/xinntao/facexlib)
 [![gfpgan](https://img.shields.io/badge/gfpgan-1.3.8-f1c232?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/TencentARC/GFPGAN)
-[![GitHub stars](https://img.shields.io/github/stars/WWIIITT/360-degree-video-super-resolution.svg)](https://github.com/username/DeepLearning_CheatSheet/stargazers)
+
 
 
 </div>
